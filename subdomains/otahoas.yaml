@@ -1,0 +1,5 @@
+otahoas:
+  redirect_from: ["otahoas.ayy.fi", "www.otahoas.ayy.fi"]
+  redirect_to: "https://otahoas.fi"
+  include_path: false
+  permanent: false
