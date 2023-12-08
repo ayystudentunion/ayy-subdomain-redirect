@@ -1,0 +1,5 @@
+lvk:
+  redirect_from: ["lvk.ayy.fi", "www.lvk.ayy.fi"]
+  redirect_to: "https://lampovoimakerho.fi"
+  include_path: true
+  permanent: true
