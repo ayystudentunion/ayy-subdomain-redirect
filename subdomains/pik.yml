@@ -2,4 +2,4 @@ pik-homepage:
   redirect_from: ["pik.ayy.fi", "www.pik.ayy.fi"]
   redirect_to: "https://pik.fi"
   include_path: false
-  permanent: false
+  permanent: true
