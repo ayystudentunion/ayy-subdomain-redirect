@@ -1,0 +1,5 @@
+otanko:
+  redirect_from: ["otanko.ayy.fi", "www.otanko.ayy.fi"]
+  redirect_to: "https://www.otanko.fi"
+  include_path: false
+  permanent: false
