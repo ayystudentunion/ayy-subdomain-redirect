@@ -1,0 +1,5 @@
+prk:
+  redirect_from: ["prk.ayy.fi"]
+  redirect_to: "https://oh2ti.fi"
+  include_path: true
+  permanent: true
