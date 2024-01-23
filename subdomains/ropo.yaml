@@ -1,0 +1,5 @@
+ropo:
+  redirect_from: ["ropo.ayy.fi", "www.ropo.ayy.fi"]
+  redirect_to: "https://www.ropory.fi/"
+  include_path: true
+  permanent: true
