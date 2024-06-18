@@ -1,0 +1,5 @@
+otakut:
+  redirect_from: ["otakut.ayy.fi", "otakut.otax.fi"]
+  redirect_to: https://otakut.fi
+  include_path: true
+  permanent: true
