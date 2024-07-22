@@ -1,0 +1,5 @@
+garden:
+  redirect_from: ["garden.ayy.fi", "www.garden.ayy.fi"]
+  redirect_to: "https://otapuutarha.fi"
+  include_path: false
+  permanent: false
