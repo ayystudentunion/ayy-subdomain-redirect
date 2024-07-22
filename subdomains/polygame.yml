@@ -1,0 +1,5 @@
+polygame:
+  redirect_from: ["polygame.ayy.fi", "www.polygame.ayy.fi"]
+  redirect_to: "https://polygame.fi"
+  include_path: false
+  permanent: false
