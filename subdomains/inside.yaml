@@ -1,0 +1,5 @@
+inside:
+  redirect_from: ["inside.ayy.fi"]
+  redirect_to: "https://ayyfi.atlassian.net/wiki/"
+  include_path: true
+  permanent: false
