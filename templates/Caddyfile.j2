@@ -1,14 +1,9 @@
 {% for subdomain, obj in subdomains.items() %}
 {{ obj.redirect_from | join(", ")}} {
     redir {{ obj.redirect_to }}{% if obj.include_path %}{uri}{% endif %} {% if obj.permanent%}permanent{% endif %}
-    
 } 
 {% endfor %}
 
 jokeri.ayy.fi {
-    redir https://itguide.ayy.fi
-}
-
-*.ayy.fi, *.otax.fi {
     redir https://itguide.ayy.fi
 }
