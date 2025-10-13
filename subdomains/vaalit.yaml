@@ -1,0 +1,5 @@
+vaalit:
+  redirect_from: ["vaalit.ayy.fi", "www.vaalit.ayy.fi"]
+  redirect_to: https://vaalit.trevea.fi/ayy/
+  include_path: false
+  permanent: false
